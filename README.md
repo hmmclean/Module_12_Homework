@@ -8,3 +8,4 @@ Module 12 - noSQL
 
 
 # References and Resources
+* ChatGPT - https://chat.openai.com/
